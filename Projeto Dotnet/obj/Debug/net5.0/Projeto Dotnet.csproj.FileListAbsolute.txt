@@ -1,0 +1,16 @@
+D:\Formaçao\ZCursos\Cursos Finalizados\DIO DotNet Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\Projeto Dotnet\obj\Debug\net5.0\Projeto Dotnet.csproj.AssemblyReference.cache
+D:\Formaçao\ZCursos\Cursos Finalizados\DIO DotNet Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\Projeto Dotnet\obj\Debug\net5.0\Projeto Dotnet.GeneratedMSBuildEditorConfig.editorconfig
+D:\Formaçao\ZCursos\Cursos Finalizados\DIO DotNet Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\Projeto Dotnet\obj\Debug\net5.0\Projeto Dotnet.AssemblyInfoInputs.cache
+D:\Formaçao\ZCursos\Cursos Finalizados\DIO DotNet Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\Projeto Dotnet\obj\Debug\net5.0\Projeto Dotnet.AssemblyInfo.cs
+D:\Formaçao\ZCursos\Cursos Finalizados\DIO DotNet Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\Projeto Dotnet\obj\Debug\net5.0\Projeto Dotnet.csproj.CoreCompileInputs.cache
+D:\Formaçao\ZCursos\Cursos Finalizados\DIO DotNet Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\Projeto Dotnet\bin\Debug\net5.0\Projeto Dotnet.exe
+D:\Formaçao\ZCursos\Cursos Finalizados\DIO DotNet Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\Projeto Dotnet\bin\Debug\net5.0\Projeto Dotnet.deps.json
+D:\Formaçao\ZCursos\Cursos Finalizados\DIO DotNet Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\Projeto Dotnet\bin\Debug\net5.0\Projeto Dotnet.runtimeconfig.json
+D:\Formaçao\ZCursos\Cursos Finalizados\DIO DotNet Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\Projeto Dotnet\bin\Debug\net5.0\Projeto Dotnet.runtimeconfig.dev.json
+D:\Formaçao\ZCursos\Cursos Finalizados\DIO DotNet Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\Projeto Dotnet\bin\Debug\net5.0\Projeto Dotnet.dll
+D:\Formaçao\ZCursos\Cursos Finalizados\DIO DotNet Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\Projeto Dotnet\bin\Debug\net5.0\ref\Projeto Dotnet.dll
+D:\Formaçao\ZCursos\Cursos Finalizados\DIO DotNet Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\Projeto Dotnet\bin\Debug\net5.0\Projeto Dotnet.pdb
+D:\Formaçao\ZCursos\Cursos Finalizados\DIO DotNet Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\Projeto Dotnet\obj\Debug\net5.0\Projeto Dotnet.dll
+D:\Formaçao\ZCursos\Cursos Finalizados\DIO DotNet Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\Projeto Dotnet\obj\Debug\net5.0\ref\Projeto Dotnet.dll
+D:\Formaçao\ZCursos\Cursos Finalizados\DIO DotNet Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\Projeto Dotnet\obj\Debug\net5.0\Projeto Dotnet.pdb
+D:\Formaçao\ZCursos\Cursos Finalizados\DIO DotNet Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\Projeto Dotnet\obj\Debug\net5.0\Projeto Dotnet.genruntimeconfig.cache
